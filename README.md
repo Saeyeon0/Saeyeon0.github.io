@@ -1,5 +1,5 @@
 # My Portfolio
-<img width="1440" alt="Снимок экрана 2022-09-20 в 21 48 42" src="https://user-images.githubusercontent.com/100344816/191305357-bdc79dfe-eb00-469d-8fa5-c4ca41f0fd57.png">
+<img width="1440" alt="Снимок экрана 2022-09-30 в 23 04 19" src="https://user-images.githubusercontent.com/100344816/193321299-3c75fa79-4d22-4dcb-b3b8-1d2a6b9fe668.png">
 
 Firstly, you can see my short bio and several hobbies.
 
