@@ -1,5 +1,8 @@
 # My Portfolio
-<img width="1440" alt="Снимок экрана 2022-09-30 в 23 04 19" src="https://user-images.githubusercontent.com/100344816/193321299-3c75fa79-4d22-4dcb-b3b8-1d2a6b9fe668.png">
+<img width="1440" alt="Снимок экрана 2022-09-30 в 23 07 30" src="https://user-images.githubusercontent.com/100344816/193321707-a8708230-c3ab-4f8c-bb4f-49558f76b6f3.png">
+
+<img width="1440" alt="Снимок экрана 2022-09-30 в 23 07 39" src="https://user-images.githubusercontent.com/100344816/193321712-1aca4d88-571f-42a1-a1c4-bac10159906e.png">
+Hover over the cute little pink heart to see more of them!
 
 Firstly, you can see my short bio and several hobbies.
 
