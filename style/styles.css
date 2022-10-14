@@ -1,0 +1,43 @@
+body {
+  background-color: lavender;
+}
+h1 {
+  color: indigo;
+}
+h3 {
+  color: mediumpurple;
+}
+img {
+  color: thistle;
+}
+body {
+  color: indigo;
+}
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  background-color: thistle;
+}
+div {
+  width: 30px;
+  height: 30px;
+  background: palevioletred;
+  transition: width 2s, height 4s;
+}
+
+div:hover {
+  width: 70px;
+  height: 90px;
+}
+div {
+  width: 30px;
+  height: 30px;
+  background-color: palevioletred;
+  animation-name: example;
+  animation-duration: 7s;
+}
+
+@keyframes example {
+  from {background-color: palevioletred;}
+  to {background-color: thistle;}
+}
