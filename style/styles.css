@@ -9,6 +9,7 @@ h3 {
 }
 img {
   color: thistle;
+  max-width:100%;
 }
 body {
   color: indigo;
