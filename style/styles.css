@@ -7,9 +7,6 @@ h1 {
 h3 {
   color: mediumpurple;
 }
-img {
-  color: thistle;
-}
 body {
   color: indigo;
 }
@@ -43,6 +40,7 @@ div {
 }
 @media screen and (min-width: 480px) {
   img {
+  color: thistle;
   max-width:100%;
   height: auto;
   }
