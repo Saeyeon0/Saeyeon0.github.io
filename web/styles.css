@@ -9,8 +9,12 @@ h3 {
 }
 img {
   color: thistle;
+}
+@media screen and (min-width: 480px) {
+  img {
   max-width:100%;
   height: auto;
+  }
 }
 body {
   color: indigo;
