@@ -40,8 +40,8 @@ div {
 }
 @media screen and (min-width: 480px) {
   img {
-  color: thistle;
-  max-width:100%;
-  height: auto;
+    color: thistle;
+    max-width:100%;
+    height: auto;
   }
 }
