@@ -1,15 +1,19 @@
 # My Portfolio
-Hover over the cute little pink heart to see more of them!
+**Welcome to my Portfolio Website!**
+
+<img width="1440" alt="Снимок экрана 2022-10-22 в 14 30 49" src="https://user-images.githubusercontent.com/100344816/197329628-cc98f5aa-eb4a-4745-ae8f-fb6e395a4b2f.png">
+
+*Firstly, you can see the photo of me and multiple stars sliding from left to right with color changing background!*
 
 
-https://user-images.githubusercontent.com/100344816/195866144-579abda2-ac83-40b5-92c7-e3f2850ffb5d.mov
+https://user-images.githubusercontent.com/100344816/197329610-f3a52497-312a-4fa3-ae8e-82d8d5ed1931.mov
+
+*Then there is short information about me and heart clicker! The heart gets bigger and darker with clicking!*
 
 
-Firstly, you can see my short bio and several hobbies.
+https://user-images.githubusercontent.com/100344816/197329450-992a127a-be69-47d4-9692-e69119818e24.mov
 
-Then in table below, there are my projects that were done during my first year of university and you can visit them by clicking the link!
 
-<img width="1440" alt="Снимок экрана 2022-09-30 в 23 26 08" src="https://user-images.githubusercontent.com/100344816/193324302-698c79a9-5c4f-4ae0-8531-6be662bb5ac8.png">
 
-Lastly I left my contacts! Thanks for visiting my site!
+*Lastly I left my contacts! Thanks for visiting my site!*
 
