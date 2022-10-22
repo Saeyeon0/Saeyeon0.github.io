@@ -1,0 +1,114 @@
+body {
+  background-color: lavender;
+}
+h1 {
+  text-align: center;
+  color: indigo;
+}
+h3 {
+  text-align: center;
+  color: mediumpurple;
+}
+h2 {
+  text-align: center;
+}
+img {
+  color: thistle;
+  max-width:100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  text-align: center;
+  color: indigo;
+}
+h4 {
+  text-align: center;
+}
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+}
+table, th, td {
+  margin-left: auto; 
+  margin-right: auto;
+  border: 1px solid white;
+  border-collapse: collapse;
+  background-color: thistle;
+}
+div {
+  width: 30px;
+  height: 30px;
+  background: palevioletred;
+  transition: width 2s, height 4s;
+}
+
+div:hover {
+  width: 70px;
+  height: 90px;
+}
+div {
+  width: 30px;
+  height: 30px;
+  background-color: lavender;
+  animation-name: example;
+  animation-duration: 7s;
+}
+
+@keyframes example {
+  from {background-color: thistle;}
+  to {background-color: plum;}
+}
+
+div.slide-right {
+  width:100%;
+  overflow:hidden;
+}
+div.slide-right p {
+  animation: 10s slide-right;
+}
+
+@keyframes slide-right {
+  from {
+    margin-left: -100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+button {
+  border: 0.2rem solid mediumpurple;
+  border-radius: 0.6rem;
+  height: 4.75rem;
+  width: 5.5rem;
+  line-height: 2.5rem;
+  font-size: 3rem;
+  color: indianred;
+  background-color: transparent;
+  transition: transform 50ms;
+}
+
+button:hover {
+  background-color: thistle;
+}
+
+button:active {
+  transform: translateY(0.1rem);
+}
+.small {
+  font-size: 3.9rem;
+  color: firebrick; 
+}
+.medium {
+  font-size: 4.9rem;
+  color: darkred;  
+}
+.large {
+  font-size: 5.9rem;
+  color: maroon;
+}
