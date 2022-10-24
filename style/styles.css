@@ -101,14 +101,14 @@ button:active {
   transform: translateY(0.1rem);
 }
 .small {
-  font-size: 3.9rem;
+  font-size: 3.5rem;
   color: firebrick; 
 }
 .medium {
-  font-size: 4.9rem;
+  font-size: 4rem;
   color: darkred;  
 }
 .large {
-  font-size: 5.9rem;
+  font-size: 4.5rem;
   color: maroon;
 }
