@@ -8,8 +8,8 @@ body {
 .typewriter h1 {
   color: indigo;
   font-family: 'Brush Script MT', cursive;
+  font-size:10vw;
   max-width:100%;
-  font-size: 110px;
   overflow: hidden;
   border-right: .15em solid plum;
   white-space: nowrap;
@@ -44,6 +44,38 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+.left {
+  background-color: #2196F3;
+  padding: 20px;
+  float: left;
+  width: 20%;
+}
+
+.main {
+  background-color: #f1f1f1;
+  padding: 20px;
+  float: left;
+  width: 60%;
+}
+
+.right {
+  background-color: #04AA6D;
+  padding: 20px;
+  float: left;
+  width: 20%;
+}
+
+@media screen and (max-width: 800px) {
+  .left, .main, .right {
+    width: 100%;
+  }
+}
+
 body {
   text-align: center;
   color: indigo;
@@ -113,7 +145,6 @@ button:active {
 .card:hover {
   background-color: thistle;
 }
-
 .search {
   align-items: center;
   justify-content: center;
