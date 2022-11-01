@@ -52,6 +52,10 @@ img {
   height: auto;
 }
 
+iframe {
+  frameborder: 0;
+}
+
 @media screen and (max-width: 800px) {
   .left, .main, .right {
     width: 100%;
